@@ -1,0 +1,22 @@
+
+v1.0.7
+1.新增向日葵远程控制软件
+2.新增其他盘符删除命令
+3.取消多余链接
+4.GitHub库创建资源
+5.将1.1.0更新为1.0.7
+6.将About.txt清除多余内容
+
+v1.1.0
+1.修改bye Class(kill).bat,将多余内容删除
+2.创建百度网盘分享链接
+3.创建天翼网盘分享链接
+4.新增About.txt
+5.将bye Class添加至GitHub库(现在暂时不能访问)
+
+v1.0.5
+1.新增Bye Class(kill).bat,增强删除力度
+2.将.reg注册表与ToDesk.exe添加至文件夹
+3.新增ReadMe.txt,用于介绍
+4.新增ToDesk Code.exe和ToDesk Code.txt
+5.为win7和win10系统各配置了文件(win7-byeclass7 win10-byeclass10)
